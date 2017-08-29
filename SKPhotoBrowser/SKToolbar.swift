@@ -162,3 +162,4 @@ class SKNextButton: SKToolbarButton {
         setup(imageName)
     }
 }
+
